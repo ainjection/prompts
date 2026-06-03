@@ -1,3 +1,7 @@
 User-agent: *
-Allow: /
+Allow: /$
+Allow: /index.html
+Disallow: /c/
+Disallow: /browse.html
+Disallow: /search.json
 Sitemap: https://ainjection.github.io/prompts/sitemap.xml

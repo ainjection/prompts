@@ -1,42 +1,6 @@
 # AI Injection Prompt Vault
 
-> 5,909+ free AI prompts WITH preview images for image, video, AI-influencer and content generation. Browse free; generators + desktop app in the community.
-
-## Collections
-- [AI Video Generators (149)](https://ainjection.github.io/prompts/c/prompt-generators-ai-video-generators.html)
-- [AI Video Prompts (409)](https://ainjection.github.io/prompts/c/ai-video-engine-ai-video-prompts.html)
-- [Prompt Generators (131)](https://ainjection.github.io/prompts/c/ai-video-engine-prompt-generators.html)
-- [Film Consistency (135)](https://ainjection.github.io/prompts/c/ai-video-engine-film-consistency.html)
-- [Video META Tokens (22)](https://ainjection.github.io/prompts/c/ai-video-engine-video-meta-tokens.html)
-- [Camera Cinematography (90)](https://ainjection.github.io/prompts/c/ai-video-engine-camera-cinematography.html)
-- [Cameras & Lenses (133)](https://ainjection.github.io/prompts/c/ai-video-engine-cameras-lenses.html)
-- [Director References (16)](https://ainjection.github.io/prompts/c/ai-video-engine-director-references.html)
-- [AI Video Prompts (99)](https://ainjection.github.io/prompts/c/mega-prompts-ai-video-prompts.html)
-- [AI Image Prompts (1132)](https://ainjection.github.io/prompts/c/mega-prompts-ai-image-prompts.html)
-- [AI Influencers (86)](https://ainjection.github.io/prompts/c/mega-prompts-ai-influencers.html)
-- [Cinematic (290)](https://ainjection.github.io/prompts/c/prompt-portal-cinematic.html)
-- [Editorial (178)](https://ainjection.github.io/prompts/c/prompt-portal-editorial.html)
-- [Cyberpunk / Futuristic (166)](https://ainjection.github.io/prompts/c/prompt-portal-cyberpunk-futuristic.html)
-- [AI Influencers (561)](https://ainjection.github.io/prompts/c/prompt-portal-ai-influencers.html)
-- [Products & Ads (275)](https://ainjection.github.io/prompts/c/prompt-portal-products-ads.html)
-- [Game / Animated (251)](https://ainjection.github.io/prompts/c/prompt-portal-game-animated.html)
-- [Cars (49)](https://ainjection.github.io/prompts/c/prompt-portal-cars.html)
-- [Fantasy / Dark (162)](https://ainjection.github.io/prompts/c/prompt-portal-fantasy-dark.html)
-- [Logos & Graphics (181)](https://ainjection.github.io/prompts/c/prompt-portal-logos-graphics.html)
-- [Meta Token Stacks (26)](https://ainjection.github.io/prompts/c/meta-tokens-meta-token-stacks.html)
-- [Cameras & Lenses (127)](https://ainjection.github.io/prompts/c/meta-tokens-cameras-lenses.html)
-- [Keyword MVPs (153)](https://ainjection.github.io/prompts/c/meta-tokens-keyword-mvps.html)
-- [Meta Tokens (205)](https://ainjection.github.io/prompts/c/meta-tokens-meta-tokens.html)
-- [JSON Prompts (86)](https://ainjection.github.io/prompts/c/nano-banana-json-prompts.html)
-- [Prompt Generators (26)](https://ainjection.github.io/prompts/c/nano-banana-prompt-generators.html)
-- [AI Influencers (70)](https://ainjection.github.io/prompts/c/nano-banana-ai-influencers.html)
-- [Social Media (68)](https://ainjection.github.io/prompts/c/content-king-social-media.html)
-- [YouTube (117)](https://ainjection.github.io/prompts/c/content-king-youtube.html)
-- [Business (32)](https://ainjection.github.io/prompts/c/content-king-business.html)
-- [Content (65)](https://ainjection.github.io/prompts/c/content-king-content.html)
-- [Marketing & Sales (144)](https://ainjection.github.io/prompts/c/content-king-marketing-sales.html)
-- [SEO (231)](https://ainjection.github.io/prompts/c/content-king-seo.html)
-- [Prompt Generators (44)](https://ainjection.github.io/prompts/c/content-king-prompt-generators.html)
+> A paid library of 5,909 AI prompts (3,814 with preview images) for image, video, influencer and content generation. One-time £24.99. Buy: https://gumroad.com/
 
 ## Community
 - [AI Injection](https://www.skool.com/ai-injection-4241)
