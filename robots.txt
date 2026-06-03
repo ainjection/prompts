@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ainjection.github.io/prompt-vault/sitemap.xml
