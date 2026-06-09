@@ -1,6 +1,43 @@
 # AI Injection Prompt Vault
 
-> A paid library of 5,909 AI prompts (3,814 with preview images) for image, video, influencer and content generation. One-time £24.99. Buy: https://aiinjectionvault.com/vault
+> A paid library of 5,909 AI prompts (3,814 with preview images) for image, video, influencer and content generation. One-time £24.99. Buy: https://aiinjectionvault.com
+
+## Free samples
+- [Free AI prompt examples — sample hub](https://ainjection.github.io/prompts/sample/): 204 complete sample prompts across 34 collections, shown in full. The full library of 5,909 prompts is paid (£24.99 one-time) at https://aiinjectionvault.com
+- [Free AI Video Generators prompt examples](https://ainjection.github.io/prompts/sample/prompt-generators-ai-video-generators.html)
+- [Free AI Video Prompts prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-ai-video-prompts.html)
+- [Free Prompt Generators prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-prompt-generators.html)
+- [Free Film Consistency prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-film-consistency.html)
+- [Free Video META Tokens prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-video-meta-tokens.html)
+- [Free Camera Cinematography prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-camera-cinematography.html)
+- [Free Cameras & Lenses prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-cameras-lenses.html)
+- [Free Director References prompt examples](https://ainjection.github.io/prompts/sample/ai-video-engine-director-references.html)
+- [Free AI Video Prompts prompt examples](https://ainjection.github.io/prompts/sample/mega-prompts-ai-video-prompts.html)
+- [Free AI Image Prompts prompt examples](https://ainjection.github.io/prompts/sample/mega-prompts-ai-image-prompts.html)
+- [Free AI Influencers prompt examples](https://ainjection.github.io/prompts/sample/mega-prompts-ai-influencers.html)
+- [Free Cinematic prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-cinematic.html)
+- [Free Editorial prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-editorial.html)
+- [Free Cyberpunk / Futuristic prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-cyberpunk-futuristic.html)
+- [Free AI Influencers prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-ai-influencers.html)
+- [Free Products & Ads prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-products-ads.html)
+- [Free Game / Animated prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-game-animated.html)
+- [Free Cars prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-cars.html)
+- [Free Fantasy / Dark prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-fantasy-dark.html)
+- [Free Logos & Graphics prompt examples](https://ainjection.github.io/prompts/sample/prompt-portal-logos-graphics.html)
+- [Free Meta Token Stacks prompt examples](https://ainjection.github.io/prompts/sample/meta-tokens-meta-token-stacks.html)
+- [Free Cameras & Lenses prompt examples](https://ainjection.github.io/prompts/sample/meta-tokens-cameras-lenses.html)
+- [Free Keyword MVPs prompt examples](https://ainjection.github.io/prompts/sample/meta-tokens-keyword-mvps.html)
+- [Free Meta Tokens prompt examples](https://ainjection.github.io/prompts/sample/meta-tokens-meta-tokens.html)
+- [Free JSON Prompts prompt examples](https://ainjection.github.io/prompts/sample/nano-banana-json-prompts.html)
+- [Free Prompt Generators prompt examples](https://ainjection.github.io/prompts/sample/nano-banana-prompt-generators.html)
+- [Free AI Influencers prompt examples](https://ainjection.github.io/prompts/sample/nano-banana-ai-influencers.html)
+- [Free Social Media prompt examples](https://ainjection.github.io/prompts/sample/content-king-social-media.html)
+- [Free YouTube prompt examples](https://ainjection.github.io/prompts/sample/content-king-youtube.html)
+- [Free Business prompt examples](https://ainjection.github.io/prompts/sample/content-king-business.html)
+- [Free Content prompt examples](https://ainjection.github.io/prompts/sample/content-king-content.html)
+- [Free Marketing & Sales prompt examples](https://ainjection.github.io/prompts/sample/content-king-marketing-sales.html)
+- [Free SEO prompt examples](https://ainjection.github.io/prompts/sample/content-king-seo.html)
+- [Free Prompt Generators prompt examples](https://ainjection.github.io/prompts/sample/content-king-prompt-generators.html)
 
 ## Community
 - [AI Injection](https://www.skool.com/ai-injection-4241)
