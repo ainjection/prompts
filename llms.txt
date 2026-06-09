@@ -1,6 +1,6 @@
 # AI Injection Prompt Vault
 
-> A paid library of 5,909 AI prompts (3,814 with preview images) for image, video, influencer and content generation. One-time £24.99. Buy: https://gumroad.com/
+> A paid library of 5,909 AI prompts (3,814 with preview images) for image, video, influencer and content generation. One-time £24.99. Buy: https://aiinjectionvault.com/vault
 
 ## Community
 - [AI Injection](https://www.skool.com/ai-injection-4241)
